@@ -1,0 +1,24 @@
+u {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.line {
+    text-decoration-line: underline overline;
+}
+
+.black {
+    font-size: 25px;
+}
+
+strong {
+    color: blue;
+}
+
+.red-text {
+    color: red;
+    text-decoration-line: underline;
+}
